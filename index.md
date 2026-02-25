@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # Linus Galaba – Portfolio
 
 Willkommen auf meinem technischen Portfolio.  
